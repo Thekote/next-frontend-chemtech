@@ -27,8 +27,6 @@ Pages routes:
 
 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
 ```
 Next.js version: 14.0.4
 Node.js version: 20.10.0
